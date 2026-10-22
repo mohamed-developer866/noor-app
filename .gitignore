@@ -1,0 +1,9 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+# Editor
+.vscode/workspaceStorage/
+.idea/
+# Secrets
+.env
+*.log
